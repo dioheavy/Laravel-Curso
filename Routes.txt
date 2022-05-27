@@ -14,7 +14,7 @@ Route::get('/categorias','ControladorCategoria@index'});
     public function index()
     {
         return view('categorias');
-    }
+    }  
 
 IMPORTANTE: No laravel 8 é preciso colocar o caminho absoluto do controllador no arquivo web.php
 

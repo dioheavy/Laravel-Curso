@@ -12,7 +12,7 @@ div.info>div.error>p.teste
 	<p class="teste"></p>
    </div>
 </div>
-
+ 
 criar varias tags iguais ex div*3 sera criado
 <div></div>
 <div></div>

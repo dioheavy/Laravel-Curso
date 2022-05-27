@@ -9,7 +9,7 @@ Obs. para ver todos os comandos basta digitar 'php artisan'
 
 --> Antes de tudo é preciso acessar a pasta onde a model foi criada com o comando: 'use' exemplo: O arquivo Brand.php esta dentro da pasta App\Models, então o comando deve ficar assim:
 	'use \App\Models\Brand'
-	'Brand::all()'
+	'Brand::all()' 
 
 *** Todos os comandos utilizados no Tinker, pode ser utizado no php normalmente ***
 

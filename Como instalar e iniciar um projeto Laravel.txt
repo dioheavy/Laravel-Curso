@@ -8,7 +8,7 @@ Digitar o comando: laravel new nome-do-projeto
 Ex: laravel new projeto-inicial
 Outro exemplo: composer create-project --prefer-dist "laravel/laravel" projeto-cadastro
 
-* Sera criada uma pasta dentro de Laravel com o nome projeto-inicial contendo todos os arquivos do laravel
+* Sera criada uma pasta dentro de Laravel com o nome projeto-inicial contendo todos os arquivos do laravel  
 
 Instalar as Dependencias:
 Acessar a pasta do projeto atraves do terminal powershell ex: projeto-cadastro e digitar o comando: npm install

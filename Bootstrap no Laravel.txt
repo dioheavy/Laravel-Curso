@@ -10,4 +10,4 @@ Digitar os comandos:
 2 - composer require laravel/ui
 3 - php artisan ui bootstrap 
 4 - npm install  
-5 - npm run dev
+5 - npm run dev 
